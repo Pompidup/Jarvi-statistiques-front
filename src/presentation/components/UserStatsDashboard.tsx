@@ -45,7 +45,7 @@ export const UserStatsDashboard: React.FC<UserStatsDashboardProps> = ({
       {/* Titre */}
       <div className="flex items-center mb-6">
         <img
-          src="../../../../assets/jarvi_icon.svg"
+          src="/assets/jarvi_icon.svg"
           alt="Jarvi Icon"
           className="w-12 h-12 mr-4"
         />
